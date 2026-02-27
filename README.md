@@ -38,7 +38,7 @@ Implements PDF parsing and intelligent resume scoring.
 ---
 
 ### 🔹 Alzheimer’s Disease Detection  
-CNN-based MRI classification system using PyTorch.  
+CNN-based MRI classification system using PyTorch.
 Includes model training, evaluation and prediction pipeline.
 
 💻 GitHub: https://github.com/Himanshimittal051104/Alzheimer_Diagnosis_CNN
