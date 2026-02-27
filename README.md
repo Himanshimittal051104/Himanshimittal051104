@@ -32,7 +32,7 @@ Built with Next.js (Frontend), FastAPI (Backend) and MongoDB.
 AI-based resume analysis system using FastAPI & NLP techniques.  
 Implements PDF parsing and intelligent resume scoring.
 
-🔗 Live Demo: https://career-lens-fawn.vercel.app/
+🔗 Live Demo: https://career-lens-fawn.vercel.app/  
 💻 GitHub: https://github.com/Himanshimittal051104/CareerLens  
 
 ---
