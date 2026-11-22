@@ -1,10 +1,10 @@
 # Hi, I'm Himanshi Mittal 👋
 
-🎓 CSE Undergraduate @ IGDTUW (2027)
-💻 Software Engineer | Full-Stack & Backend Developer
-🚀 Building AI-powered applications and scalable systems
-📍 Delhi, India
-🔎 Open to SDE / SWE & AI Engineering Opportunities
+- 🎓 CSE Undergraduate @ IGDTUW (2027)
+- 💻 Software Engineer | Full-Stack & Backend Developer
+- 🚀 Building AI-powered applications and scalable systems
+- 📍 Delhi, India
+- 🔎 Open to SDE / SWE & AI Engineering Opportunities
 
 ---
 
