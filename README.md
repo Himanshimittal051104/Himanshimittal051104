@@ -24,7 +24,6 @@
 ### 🔹 RaftKV — Distributed Key-Value Store
 
 A Raft-based distributed key-value store built in Go, focusing on fault tolerance, persistence, and log management.
-
 - Implemented Raft-based replication and key-value operations.
 - Added persistent storage, Write-Ahead Logging (WAL), snapshots, and log compaction.
 - Built recovery and persistence tests to validate state restoration and log consistency.
@@ -35,7 +34,6 @@ A Raft-based distributed key-value store built in Go, focusing on fault toleranc
 
 ### 🔹 PropWise_AI  
 AI-powered property price prediction platform combining machine learning with a full-stack application.
-
 - Built using Next.js, FastAPI, MongoDB, and XGBoost.
 - Integrated ML predictions through backend APIs.
 
@@ -46,7 +44,6 @@ AI-powered property price prediction platform combining machine learning with a 
 
 ### 🔹 CareerLens  
 AI-powered resume analysis platform that extracts and evaluates resume content.
-
 - Built with Next.js, FastAPI, and Gemini API.
 - Integrated PDF parsing, resume analysis, and intelligent feedback.
 
@@ -57,7 +54,6 @@ AI-powered resume analysis platform that extracts and evaluates resume content.
 
 ### 🔹 Alzheimer’s Disease Detection  
 Deep learning-based MRI classification system using CNNs and ResNet-18.
-
 - Developed using PyTorch.
 - Implemented model training, evaluation, and prediction pipelines.
 
