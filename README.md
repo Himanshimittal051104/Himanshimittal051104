@@ -21,7 +21,7 @@
 
 ## 🚀 Featured Projects
 
-###🔹 RaftKV — Distributed Key-Value Store
+### 🔹 RaftKV — Distributed Key-Value Store
 
 A Raft-based distributed key-value store built in Go, focusing on fault tolerance, persistence, and log management.
 
